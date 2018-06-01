@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=DC_OUTPUT Pin=U13-1
+Removed Pin From Net: NetName=AGND Pin=U13-2
+Removed Pin From Net: NetName=AC_OUTPUT Pin=U13-3
+Change Component DesignItemId : Designator=U13 Old DesignItemId=INA106 New DesignItemId=AD8065
+Change Component Footprint: Designator=U13 Old Footprint=SO-8 New Footprint=SO-8N
+Change Component Comment : Designator=U13 Old Comment=INA106 New Comment=AD8065
+Added Component: Designator=C95(0603)
+Added Component: Designator=R40(0805)
+Added Component: Designator=R41(0805)
+Added Component: Designator=R42(0805)
+Added Component: Designator=R43(0805)
+Added Pin To Net: NetName=DGND Pin=C93-1
+Added Pin To Net: NetName=3V3 Pin=C93-2
+Added Pin To Net: NetName=AGND Pin=R40-2
+Added Pin To Net: NetName=AC_OUTPUT Pin=R41-1
+Added Pin To Net: NetName=DC_OUTPUT Pin=R42-1
+Added Pin To Net: NetName=NetR40_1 Pin=R40-1
+Added Pin To Net: NetName=NetR40_1 Pin=R41-2
+Added Pin To Net: NetName=NetR40_1 Pin=U13-3
+Added Net: Name=NetR40_1
+Added Pin To Net: NetName=NetR42_2 Pin=R42-2
+Added Pin To Net: NetName=NetR42_2 Pin=R43-1
+Added Pin To Net: NetName=NetR42_2 Pin=U13-2
+Added Net: Name=NetR42_2
+Added Pin To Net: NetName=NetR43_2 Pin=R43-2
+Added Pin To Net: NetName=NetR43_2 Pin=SigOut-1
+Added Pin To Net: NetName=NetR43_2 Pin=U13-6
+Added Net: Name=NetR43_2
+Added Member To Class: ClassName=FPGA Member=Component C95 100nF
+Added Member To Class: ClassName=FPGA Member=Component R40 10k
+Added Member To Class: ClassName=FPGA Member=Component R41 10k
+Added Member To Class: ClassName=FPGA Member=Component R42 10k
+Added Member To Class: ClassName=FPGA Member=Component R43 10k

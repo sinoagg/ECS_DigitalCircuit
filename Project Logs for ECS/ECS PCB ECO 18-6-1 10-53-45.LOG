@@ -1,0 +1,38 @@
+Removed Pin From Net: NetName=DGND Pin=C58-1
+Removed Pin From Net: NetName=3V3 Pin=C58-2
+Removed Pin From Net: NetName=DGND Pin=C59-1
+Removed Pin From Net: NetName=1V2 Pin=C59-2
+Removed Pin From Net: NetName=3V3 Pin=C95-1
+Removed Pin From Net: NetName=DGND Pin=C95-2
+Removed Pin From Net: NetName=DIO_21 Pin=DIO1-21
+Removed Pin From Net: NetName=DIO_22 Pin=DIO1-22
+Removed Pin From Net: NetName=DIO_23 Pin=DIO1-23
+Removed Pin From Net: NetName=DIO_24 Pin=DIO1-24
+Removed Pin From Net: NetName=DGND Pin=DIO2-21
+Removed Pin From Net: NetName=DGND Pin=DIO2-22
+Removed Pin From Net: NetName=3V3 Pin=DIO2-23
+Removed Pin From Net: NetName=3V3 Pin=DIO2-24
+Change Component DesignItemId : Designator=C58 Old DesignItemId=Cap New DesignItemId=Cap Pol2
+Change Component DesignItemId : Designator=C59 Old DesignItemId=Cap New DesignItemId=Cap Pol2
+Change Component DesignItemId : Designator=DIO1 Old DesignItemId=Header 12X2 New DesignItemId=Header 10X2
+Change Component DesignItemId : Designator=DIO2 Old DesignItemId=Header 12X2 New DesignItemId=Header 10X2
+Change Component Footprint: Designator=C58 Old Footprint=0603 New Footprint=6032_Pol
+Change Component Footprint: Designator=C59 Old Footprint=0603 New Footprint=6032_Pol
+Change Component Footprint: Designator=DIO1 Old Footprint=HDR2X12 New Footprint=HDR2X10
+Change Component Footprint: Designator=DIO2 Old Footprint=HDR2X12 New Footprint=HDR2X10
+Change Component Footprint: Designator=X1 Old Footprint=SMD5032 New Footprint=XTAL3225
+Change Component Comment : Designator=C58 Old Comment=1uF New Comment=10uF
+Change Component Comment : Designator=C59 Old Comment=1uF New Comment=10uF
+Change Component Comment : Designator=DIO1 Old Comment=Header 12X2 New Comment=Header 10X2
+Change Component Comment : Designator=DIO2 Old Comment=Header 12X2 New Comment=Header 10X2
+Added Component: Designator=C68(0603)
+Added Component: Designator=C95(0603)
+Added Pin To Net: NetName=3V3 Pin=C58-1
+Added Pin To Net: NetName=DGND Pin=C58-2
+Added Pin To Net: NetName=1V2 Pin=C59-1
+Added Pin To Net: NetName=DGND Pin=C59-2
+Added Pin To Net: NetName=DGND Pin=C68-1
+Added Pin To Net: NetName=GCLK_50M Pin=C68-2
+Added Pin To Net: NetName=DGND Pin=C93-1
+Added Pin To Net: NetName=3V3 Pin=C93-2
+Added Member To Class: ClassName=FPGA Member=Component C68 100nF

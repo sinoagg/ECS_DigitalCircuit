@@ -1,0 +1,49 @@
+Protel Design System Design Rule Check
+PCB File : E:\SINOAGG\ECS\Circuits\ECS_CORE\ECS_CORE_V1.02\ECS.PcbDoc
+Date     : 18/6/1
+Time     : 14:45:58
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=2mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=6mil) (Max=50mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=3mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Isolated copper: Split Plane  (AGND) on Groud. Dead copper detected. Copper area is : 253.446 sq. mils
+   Violation between Isolated copper: Split Plane  (AGND) on Groud. Dead copper detected. Copper area is : 125.597 sq. mils
+   Violation between Isolated copper: Split Plane  (AGND) on Power. Dead copper detected. Copper area is : 253.446 sq. mils
+   Violation between Isolated copper: Split Plane  (AGND) on Power. Dead copper detected. Copper area is : 125.597 sq. mils
+   Violation between Un-Routed Net Constraint: Net DGND Between Pad C36-1(2929.252mil,4190.244mil) on Top Layer And Via (3049mil,4189mil) from Top Layer to Bottom Layer 
+Rule Violations :5
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+
+Violations Detected : 5
+Time Elapsed        : 00:00:06
