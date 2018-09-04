@@ -106,10 +106,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JWKJNIDC
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for ECS\Design Rule Check - ECS.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0

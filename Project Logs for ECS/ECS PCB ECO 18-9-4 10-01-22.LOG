@@ -1,0 +1,128 @@
+Removed Pin From Net: NetName=AGND Pin=C2-1
+Removed Pin From Net: NetName=+5V Pin=C2-2
+Removed Pin From Net: NetName=+5V Pin=C19_1-1
+Removed Pin From Net: NetName=AGND Pin=C19_1-2
+Removed Pin From Net: NetName=+5V Pin=C19_2-1
+Removed Pin From Net: NetName=AGND Pin=C19_2-2
+Removed Pin From Net: NetName=AGND Pin=C77-1
+Removed Pin From Net: NetName=+5V Pin=C77-2
+Removed Pin From Net: NetName=AGND Pin=C88-1
+Removed Pin From Net: NetName=+5V Pin=C88-2
+Removed Pin From Net: NetName=+5V Pin=R13_1-1
+Removed Pin From Net: NetName=+5V Pin=R13_2-1
+Removed Pin From Net: NetName=AGND Pin=R15_1-2
+Removed Pin From Net: NetName=AGND Pin=R15_2-2
+Removed Pin From Net: NetName=NetR12_1_2 Pin=R23_1-1
+Removed Pin From Net: NetName=NetR12_2_2 Pin=R23_2-1
+Removed Pin From Net: NetName=NetR12_1_2 Pin=U3_1-7
+Removed Pin From Net: NetName=NetR12_2_2 Pin=U3_2-7
+Removed Member From Class: ClassName=AD9244A Member=C19_1
+Removed Member From Class: ClassName=AD9244B Member=C19_2
+Removed Member From Class: ClassName=AD9244A Member=R13_1
+Removed Member From Class: ClassName=AD9244B Member=R13_2
+Removed Member From Class: ClassName=AD9244A Member=R15_1
+Removed Member From Class: ClassName=AD9244B Member=R15_2
+Change Component DesignItemId : Designator=C15_1 Old DesignItemId=Cap Pol3 New DesignItemId=Cap Pol2
+Change Component DesignItemId : Designator=C15_2 Old DesignItemId=Cap Pol3 New DesignItemId=Cap Pol2
+Change Component DesignItemId : Designator=C71_1 Old DesignItemId=Cap Pol3 New DesignItemId=Cap Pol2
+Change Component DesignItemId : Designator=C71_2 Old DesignItemId=Cap Pol3 New DesignItemId=Cap Pol2
+Change Component DesignItemId : Designator=C2 Old DesignItemId=Cap Semi New DesignItemId=Cap Pol2
+Change Component DesignItemId : Designator=C18 Old DesignItemId=Cap Semi New DesignItemId=Cap Pol2
+Change Component DesignItemId : Designator=C21 Old DesignItemId=Cap Semi New DesignItemId=Cap Pol2
+Change Component DesignItemId : Designator=C24 Old DesignItemId=Cap Semi New DesignItemId=Cap Pol2
+Change Component DesignItemId : Designator=C31 Old DesignItemId=Cap Semi New DesignItemId=Cap Pol2
+Change Component DesignItemId : Designator=C77 Old DesignItemId=Cap Semi New DesignItemId=Cap Pol2
+Change Component DesignItemId : Designator=C79 Old DesignItemId=Cap Semi New DesignItemId=Cap Pol2
+Change Component DesignItemId : Designator=C88 Old DesignItemId=Cap Semi New DesignItemId=Cap Pol2
+Change Component Footprint: Designator=C21 Old Footprint=0603 New Footprint=3216
+Change Component Footprint: Designator=C31 Old Footprint=0603 New Footprint=3216
+Change Component Footprint: Designator=C77 Old Footprint=0603 New Footprint=3216
+Change Component Footprint: Designator=C79 Old Footprint=0603 New Footprint=3216
+Change Component Footprint: Designator=C88 Old Footprint=0603 New Footprint=3216
+Change Component Footprint: Designator=C2 Old Footprint=0805 New Footprint=3216
+Change Component Footprint: Designator=C18 Old Footprint=0805 New Footprint=3216
+Change Component Footprint: Designator=C24 Old Footprint=0805 New Footprint=3216
+Change Component Footprint: Designator=C47 Old Footprint=1206 New Footprint=3216
+Change Component Footprint: Designator=C48 Old Footprint=1206 New Footprint=3216
+Change Component Footprint: Designator=C49 Old Footprint=1206 New Footprint=3216
+Change Component Footprint: Designator=C50 Old Footprint=1206 New Footprint=3216
+Change Component Footprint: Designator=C51 Old Footprint=1206 New Footprint=3216
+Change Component Footprint: Designator=C15_1 Old Footprint=6032_pol New Footprint=3216
+Change Component Footprint: Designator=C15_2 Old Footprint=6032_pol New Footprint=3216
+Change Component Footprint: Designator=C35 Old Footprint=6032_pol New Footprint=3216
+Change Component Footprint: Designator=C58 Old Footprint=6032_Pol New Footprint=3216
+Change Component Footprint: Designator=C59 Old Footprint=6032_Pol New Footprint=3216
+Change Component Footprint: Designator=C64 Old Footprint=6032_Pol New Footprint=3216
+Change Component Footprint: Designator=C65 Old Footprint=6032_Pol New Footprint=3216
+Change Component Footprint: Designator=C67 Old Footprint=6032_Pol New Footprint=3216
+Change Component Footprint: Designator=C71_1 Old Footprint=6032_pol New Footprint=3216
+Change Component Footprint: Designator=C71_2 Old Footprint=6032_pol New Footprint=3216
+Change Component Comment : Designator=C21 Old Comment=10nF New Comment=10uF
+Change Component Comment : Designator=C31 Old Comment=10nF New Comment=10uF
+Change Component Comment : Designator=C77 Old Comment=10nF New Comment=10uF
+Change Component Comment : Designator=C79 Old Comment=10nF New Comment=10uF
+Change Component Comment : Designator=C88 Old Comment=10nF New Comment=10uF
+Change Component Comment : Designator=C15_1 Old Comment=10uF_pol New Comment=10uF
+Change Component Comment : Designator=C15_2 Old Comment=10uF_pol New Comment=10uF
+Change Component Comment : Designator=C71_1 Old Comment=10uF_pol New Comment=10uF
+Change Component Comment : Designator=C71_2 Old Comment=10uF_pol New Comment=10uF
+Change Component Comment : Designator=R14_1 Old Comment=90 New Comment=90K
+Change Component Comment : Designator=R14_2 Old Comment=90 New Comment=90K
+Change Component Comment : Designator=C24 Old Comment=100nF New Comment=10uF
+Change Component Comment : Designator=R12_1 Old Comment=113 New Comment=113K
+Change Component Comment : Designator=R12_2 Old Comment=113 New Comment=113K
+Change Component Description : Designator=U3_1 Old Description=Differential Receiver New Description=
+Change Component Description : Designator=U3_2 Old Description=Differential Receiver New Description=
+Change Component Library : Designator=U3_1 Old Library=ON Semi Interface Line Receiver.IntLib New Library=BinFeng_IC.SchLib
+Change Component Library : Designator=U3_2 Old Library=ON Semi Interface Line Receiver.IntLib New Library=BinFeng_IC.SchLib
+Added Component: Designator=C11_1(3216)
+Added Component: Designator=C11_2(3216)
+Added Component: Designator=C47_1(3216)
+Added Component: Designator=C47_2(3216)
+Added Component: Designator=C48_1(0603)
+Added Component: Designator=C48_2(0603)
+Added Component: Designator=C69(3216)
+Added Component: Designator=C71(3216)
+Added Pin To Net: NetName=+5V Pin=C2-1
+Added Pin To Net: NetName=AGND Pin=C2-2
+Added Pin To Net: NetName=+5V Pin=C11_1-1
+Added Pin To Net: NetName=AGND Pin=C11_1-2
+Added Pin To Net: NetName=+5V Pin=C11_2-1
+Added Pin To Net: NetName=AGND Pin=C11_2-2
+Added Pin To Net: NetName=+5V Pin=C47_1-1
+Added Pin To Net: NetName=AGND Pin=C47_1-2
+Added Pin To Net: NetName=+5V Pin=C47_2-1
+Added Pin To Net: NetName=AGND Pin=C47_2-2
+Added Pin To Net: NetName=AGND Pin=C48_1-1
+Added Pin To Net: NetName=+5V Pin=C48_1-2
+Added Pin To Net: NetName=AGND Pin=C48_2-1
+Added Pin To Net: NetName=+5V Pin=C48_2-2
+Added Pin To Net: NetName=3V3 Pin=C69-1
+Added Pin To Net: NetName=DGND Pin=C69-2
+Added Pin To Net: NetName=+5V Pin=C71-1
+Added Pin To Net: NetName=AGND Pin=C71-2
+Added Pin To Net: NetName=+5V Pin=C77-1
+Added Pin To Net: NetName=AGND Pin=C77-2
+Added Pin To Net: NetName=+5V Pin=C88-1
+Added Pin To Net: NetName=AGND Pin=C88-2
+Added Pin To Net: NetName=NetR23_1_1 Pin=R23_1-1
+Added Pin To Net: NetName=NetR23_1_1 Pin=R25_1-1
+Added Pin To Net: NetName=NetR23_1_1 Pin=U3_1-6
+Added Pin To Net: NetName=NetR23_1_1 Pin=U3_1-7
+Added Net: Name=NetR23_1_1
+Added Pin To Net: NetName=NetR23_2_1 Pin=R23_2-1
+Added Pin To Net: NetName=NetR23_2_1 Pin=R25_2-1
+Added Pin To Net: NetName=NetR23_2_1 Pin=U3_2-6
+Added Pin To Net: NetName=NetR23_2_1 Pin=U3_2-7
+Added Net: Name=NetR23_2_1
+Added Member To Class: ClassName=AD9244A Member=Component C11_1 (C11) 10uF
+Added Member To Class: ClassName=AD9244B Member=Component C11_2 (C11) 10uF
+Added Member To Class: ClassName=AD9244A Member=Component C47_1 (C47) 10uF
+Added Member To Class: ClassName=AD9244B Member=Component C47_2 (C47) 10uF
+Added Member To Class: ClassName=AD9244A Member=Component C48_1 (C48) 100nF
+Added Member To Class: ClassName=AD9244B Member=Component C48_2 (C48) 100nF
+Added Member To Class: ClassName=FPGA Member=Component C69 10uF
+Added Member To Class: ClassName=FPGA Member=Component C71 10uF
+Added Room: Name=AD9244A
+Added Room: Name=AD9244B
+Added Room: Name=FPGA

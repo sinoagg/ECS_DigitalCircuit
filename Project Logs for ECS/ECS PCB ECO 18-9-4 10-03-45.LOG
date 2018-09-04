@@ -1,0 +1,14 @@
+Added Component: Designator=U21_1(SOT23-5)
+Added Component: Designator=U21_2(SOT23-5)
+Added Pin To Net: NetName=NetR23_1_1 Pin=U21_1-1
+Added Pin To Net: NetName=AGND Pin=U21_1-2
+Added Pin To Net: NetName=NetR12_1_2 Pin=U21_1-3
+Added Pin To Net: NetName=NetR23_1_1 Pin=U21_1-4
+Added Pin To Net: NetName=+5V Pin=U21_1-5
+Added Pin To Net: NetName=NetR23_2_1 Pin=U21_2-1
+Added Pin To Net: NetName=AGND Pin=U21_2-2
+Added Pin To Net: NetName=NetR12_2_2 Pin=U21_2-3
+Added Pin To Net: NetName=NetR23_2_1 Pin=U21_2-4
+Added Pin To Net: NetName=+5V Pin=U21_2-5
+Added Member To Class: ClassName=AD9244A Member=Component U21_1 (U21) AD8601
+Added Member To Class: ClassName=AD9244B Member=Component U21_2 (U21) AD8601
